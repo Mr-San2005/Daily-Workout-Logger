@@ -33,11 +33,10 @@ A MERN stack web app to log daily workouts, monitor progress, and manage workout
 
 ## Tech Stack
 
-- *Frontend*: React, Redux (or Context), Axios, CSS / Tailwind / your styling  
+- *Frontend*: React, Redux (or Context), Axios, CSS / Tailwind
 - *Backend*: Node.js, Express  
 - *Database*: MongoDB  
 - *Authentication*: JWT / sessions  
-- *Deployment*: (optional) Heroku, Vercel or similar  
 
 ---
 
@@ -48,8 +47,8 @@ A MERN stack web app to log daily workouts, monitor progress, and manage workout
 Make sure you have installed:
 
 - Node.js (v14+ recommended)  
-- npm or yarn  
-- MongoDB (local or cloud cluster, e.g. MongoDB Atlas)  
+- npm 
+- MongoDB Compass 
 
 ### Installation
 
